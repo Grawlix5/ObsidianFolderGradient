@@ -1,0 +1,7 @@
+/* Folder Gradient Plugin - base styles */
+
+/* Smooth transition for folder title color changes */
+.nav-folder-title .nav-folder-title-content,
+.nav-folder-title .nav-folder-collapse-indicator {
+  transition: color 0.4s ease;
+}

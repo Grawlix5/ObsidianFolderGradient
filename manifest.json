@@ -1,0 +1,10 @@
+{
+  "id": "folder-gradient",
+  "name": "Folder Gradient",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Color your sidebar folders with a custom gradient based on their position.",
+  "author": "You",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
